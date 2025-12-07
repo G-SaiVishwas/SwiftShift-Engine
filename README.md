@@ -1,6 +1,6 @@
-# RideShare Backend
+# SwiftShift-Engine
 
-A mini ride sharing backend built with Spring Boot and MongoDB.
+A ride sharing backend built with Spring Boot and MongoDB.
 
 ## Tech Stack
 
